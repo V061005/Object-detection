@@ -1,0 +1,13 @@
+torch
+torchvision
+opencv-python
+numpy
+flask
+werkzeug
+jinja2
+typing-extensions
+colorama
+sympy
+blinker
+itsdangerous
+setuptools
